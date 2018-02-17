@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string-array name="colorNames">
+    <item>White</item>
+    <item>Blue</item>
+    </string-array>
+</resources>
